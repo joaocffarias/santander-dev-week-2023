@@ -1,5 +1,5 @@
 # Desafio DIO Diagrama de classes com ChatGPT e Mermaid
-Java RESTful API criada para p desafio DIO.
+Java RESTful API criada para o desafio DIO.
 
 ## Diagrama de Classes
 
